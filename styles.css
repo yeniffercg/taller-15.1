@@ -1,0 +1,9 @@
+@media (max-width: 700px) {
+    .accordion {
+        display: none;
+    }
+
+    .col {
+        display: contents;
+    }
+}
